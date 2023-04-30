@@ -9,8 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "-": "^0.0.1",
+    "@chakra-ui/core": "^0.8.0",
+    "@chakra-ui/react": "^2.5.5",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@types/node": "^18.15.11",
+    "@types/react": "^18.0.37",
+    "D": "^1.0.0",
+    "apexcharts": "^3.39.0",
+    "framer-motion": "^10.12.4",
     "next": "13.3.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-apexcharts": "^1.4.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.8.0",
+    "typescript": "^5.0.4"
   }
 }
